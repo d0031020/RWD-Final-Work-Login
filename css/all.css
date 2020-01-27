@@ -525,7 +525,7 @@ footer .link img {
 
 main {
     width: 100%;
-    height: 500px;
+    height: 480px;
     color: #5E392D;
     background-color: #EFE9E7;
     padding-top: 50px;
@@ -555,11 +555,11 @@ main h2 {
 
 main form {
     width: 30%;
-    height: 300px;
+    height: 320px;
     margin: 0 auto;
     box-shadow: 2px 2px 5px gray;
     border-top: 5px solid #F36D31;
-    padding: 2%;
+    padding: 0 2%;
     background-color: #F6F4F3;
 }
 
