@@ -579,7 +579,7 @@ main form a {
     color: #F36D31;
 }
 
-main form a:hover {
+main form .forgot:hover {
     border-bottom: 1px solid #F36D31;
 }
 
